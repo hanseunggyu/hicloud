@@ -1,0 +1,16 @@
+# Cloud Monitoring System Requirements
+
+# Core dependencies
+flask==2.3.3
+docker==6.1.3
+pymysql==1.1.0
+psutil==5.9.5
+requests==2.31.0
+pandas==2.0.3
+
+# Data validation
+pydantic==2.4.2
+
+# Optional: for better logging and configuration
+# PyYAML==6.0.1
+# python-dotenv==1.0.0
