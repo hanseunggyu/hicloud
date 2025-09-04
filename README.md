@@ -19,12 +19,12 @@ hi-cloud-main/
 ├── hicloud_config.py            # HiCloud 설정 파일
 ├── hicloud_database_schema.sql  # HiCloud 데이터베이스 스키마
 │
-├── hicloud_agent.py             # 🔍 HiCloud Agent - 모니터링 데이터 수집
-├── hicloud_server.py            # 🖥️ HiCloud Server - Flask REST API
-├── hicloud_container_setup.py   # 🐳 HiCloud 컨테이너 관리 도구
+├── hicloud_agent.py             # HiCloud Agent - 모니터링 데이터 수집
+├── hicloud_server.py            # HiCloud Server - Flask REST API
+├── hicloud_container_setup.py   # HiCloud 컨테이너 관리 도구
 │
-├── hicloud_database.py          # 📊 HiCloud 데이터베이스 연결
-├── hicloud_docker_monitor.py    # 🐋 HiCloud Docker 모니터링 도구
+├── hicloud_database.py          # HiCloud 데이터베이스 연결
+├── hicloud_docker_monitor.py    # HiCloud Docker 모니터링 도구
 └── test.py                      # HiCloud 테스트 파일
 ```
 
