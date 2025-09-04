@@ -135,7 +135,7 @@ python hicloud_container_setup.py list
 python hicloud_container_setup.py cleanup
 ```
 
-## 🔌 HiCloud API 사용법
+## HiCloud API 사용법
 
 ### HiCloud 모니터링 데이터 전송 API
 
