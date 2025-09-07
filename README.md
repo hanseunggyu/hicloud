@@ -285,7 +285,4 @@ WantedBy=multi-user.target
 ## HiCloud 모니터링 대시보드
 
 HiCloud 수집 데이터 시각화 방법:
-
-1. **Grafana** + HiCloud MySQL 데이터소스
-2. **Prometheus** + HiCloud custom exporter
-3. **HiCloud 웹 대시보드** 직접 개발
+**Grafana** + HiCloud MySQL 데이터소스
